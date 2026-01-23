@@ -1,8 +1,9 @@
 63f7b34db8d8cdea90c76aacccf841ec
-::res://::1768857686
+::res://::1769119119
 icon.svg::CompressedTexture2D::3298306093990342793::1768695867::1768857687::1::::<><><>0<>0<>8eeff2f6f8b723c2e39f33b22797acfc<>res://.godot/imported/icon.svg-218a8f2b3041327d8a5756f3a245f83b.ctex::
 README.md::TextFile::-1::1768857600::0::1::::<><><>0<>0<><>::
-::res://Scripting/::1768857458
+::res://Scripting/::1768891723
+ArraysDicts.gd::GDScript::4128721574830482232::1768892288::0::1::::<>EditorScript<><>0<>1<><>::
 BasicTypes.gd::GDScript::4625794779683587414::1768768170::0::1::::<>EditorScript<><>0<>1<><>::
-ControlFlow.gd::GDScript::7079649340693250794::1768857441::0::1::::<>EditorScript<><>0<>1<><>::
+ControlFlow.gd::GDScript::7079649340693250794::1768891138::0::1::::<>EditorScript<><>0<>1<><>::
 Operators.gd::GDScript::1961697733143796057::1768855832::0::1::::<>EditorScript<><>0<>1<><>::
